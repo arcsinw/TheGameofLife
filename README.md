@@ -2,6 +2,14 @@
 
 Conway's Game of Life.  Processing edition
 
+|Key| Function|
+|:---:|:---:|
+|Left Mouse Click| set cell to active|
+|Right Mouse Click| set cell to dead|
+|C| clear all cell|
+|S| step the evolve |
+|Space| run / stop|
+
 ## Preview
  
 ![g](https://user-images.githubusercontent.com/10514065/57601967-80505700-7590-11e9-8282-96e1701c304b.gif)
